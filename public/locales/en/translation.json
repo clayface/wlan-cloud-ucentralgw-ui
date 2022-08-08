@@ -9,6 +9,7 @@
 		"firmware_upgrade": "Firmware Upgrade",
 		"reboot": "Reboot",
 		"request_ie": "Request IEs",
+		"script": "Run Script",
 		"telemetry": "Telemetry",
 		"title": "Commands",
 		"trace": "Trace",
@@ -606,6 +607,13 @@
 		"scan": "Scan",
 		"scanning": "Scanning... ",
 		"waiting_directions": "Please wait for the scan result. This may take up to 25 seconds. You can exit and look at the results from the commands table later."
+	},
+	"script": {
+		"choose_file": "You need to choose a valid script file: ",
+		"enter_new": "Enter new script: ",
+		"title": "Run Script",
+		"placeholder": "Enter commands",
+		"type": "Script type"
 	},
 	"settings": {
 		"title": "Settings"
